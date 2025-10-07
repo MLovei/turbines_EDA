@@ -12,8 +12,8 @@ This guide shows how to set up and run the Marimo notebook using Poetry for depe
 ## 1. Clone or Download Repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-directory>
+git clone https://github.com/MLovei/turbines_EDA
+cd turbines_EDA
 ```
 
 Or simply place the files (`pyproject.toml`, `ignitis_notebook.py`, `POE_Task.xlsx`) in a project folder.
